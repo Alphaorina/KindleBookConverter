@@ -26,7 +26,7 @@ logging.basicConfig(filename="conversion.log", level=logging.INFO, format="%(asc
 # Kindle email setup
 SENDER_EMAIL = "dennisolondo@gmail.com"
 KINDLE_EMAIL = "dennisolondo_SnR56l@kindle.com"
-EMAIL_PASSWORD = "ouqd oycq psqv wplw"
+EMAIL_PASSWORD = os.environ.get("KINDLE_EMAIL_PASSWORD")
 
 def get_converted_filename(original_filename):
     """Return a standardized MOBI filename based on the original."""
