@@ -1,0 +1,47 @@
+2025-02-27 12:42:23,064 - \u2705 Converted: 1984-nineteen-eighty-four-george-orwell-obooko.epub -> 1984-nineteen-eighty-four-george-orwell-obooko.mobi
+2025-02-27 12:42:25,928 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/kindle/1984-nineteen-eighty-four-george-orwell-obooko.mobi to Kindle: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-abf0c0dd592sm111751066b.66 - gsmtp')
+2025-02-27 12:55:06,593 - \u2705 Converted: pg75475-images-3.epub -> pg75475-images-3.mobi
+2025-02-27 12:55:09,313 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/kindle/pg75475-images-3.mobi to Kindle: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5e4c3b6cfd0sm999516a12.28 - gsmtp')
+2025-02-27 13:39:26,762 - \u2705 Converted: financial-terms-dictionary-100-most-popular-financial-terms-explained-obooko.epub -> financial-terms-dictionary-100-most-popular-financial-terms-explained-obooko.mobi
+2025-02-27 13:39:30,617 - \u2705 Sent to Kindle: C:\Users\Dennis/Downloads/ebooks/kindle/financial-terms-dictionary-100-most-popular-financial-terms-explained-obooko.mobi
+2025-02-27 13:50:45,423 - \u2705 Converted: gentle-green-obooko.epub -> gentle-green-obooko.mobi
+2025-02-27 13:50:49,127 - \u2705 Sent to Kindle: C:\Users\Dennis/Downloads/ebooks/kindle/gentle-green-obooko.mobi
+2025-02-27 14:11:09,063 - \u2705 Converted: broken-toy-ricci-obooko.epub -> broken-toy-ricci-obooko.mobi
+2025-02-27 14:11:12,571 - \u2705 Sent to Kindle: C:\Users\Dennis/Downloads/ebooks/kindle/broken-toy-ricci-obooko.mobi
+2025-02-27 16:08:13,020 - \u2705 Converted: Don't Believe Everything You Think by Joseph Nguyen.epub -> Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 16:08:17,069 - \u2705 Sent to Kindle: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 16:16:17,042 - \u274c Unexpected error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Dennis/Downloads/ebooks/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994).pdf'
+2025-02-27 16:22:30,296 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994).pdf
+2025-02-27 16:22:30,303 - Removed old MOBI: C:\Users\Dennis/Downloads/ebooks/kindle/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)_pdf.mobi
+2025-02-27 16:31:40,943 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994).pdf -> C:\Users\Dennis/Downloads/ebooks/kindle/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)_pdf.mobi
+2025-02-27 16:32:23,072 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/kindle/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)_pdf.mobi: (552, b"5.3.4 Your message exceeded Google's message size limits. To view our\n5.3.4 message size guidelines, go to\n5.3.4  https://support.google.com/mail/?p=MaxSizeError a640c23a62f3a-abf0c6ee454sm138779366b.89 - gsmtp", 'dennisolondo@gmail.com')
+2025-02-27 16:32:23,214 - Moved original file to processed: Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994).pdf
+2025-02-27 16:32:29,409 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/REFramework without Queue Items Checklist.pdf
+2025-02-27 16:32:33,581 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/REFramework without Queue Items Checklist.pdf -> C:\Users\Dennis/Downloads/ebooks/kindle/REFramework without Queue Items Checklist_pdf.mobi
+2025-02-27 16:32:37,178 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/REFramework without Queue Items Checklist_pdf.mobi
+2025-02-27 16:32:37,181 - Moved original file to processed: REFramework without Queue Items Checklist.pdf
+2025-02-27 16:58:23,350 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 16:58:23,354 - Moved original file to processed: Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:00:15,832 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub: (552, b'5.7.0 This message was blocked because its content presents a potential\n5.7.0 security issue. To review our message content and attachment content\n5.7.0 guidelines, go to\n5.7.0  https://support.google.com/mail/?p=BlockedMessage a640c23a62f3a-abf0c74c766sm141422866b.127 - gsmtp')
+2025-02-27 17:00:20,525 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub -> C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:00:23,995 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:00:23,997 - Moved original file to processed: Don't Believe Everything You Think by Joseph Nguyen.epub
+2025-02-27 17:02:04,803 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub: (552, b'5.7.0 This message was blocked because its content presents a potential\n5.7.0 security issue. To review our message content and attachment content\n5.7.0 guidelines, go to\n5.7.0  https://support.google.com/mail/?p=BlockedMessage 4fb4d7f45d1cf-5e4c3b4aa13sm1262721a12.7 - gsmtp')
+2025-02-27 17:02:04,811 - Removed old MOBI: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:02:08,589 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub -> C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:02:13,842 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:02:13,845 - Moved original file to processed: Don't Believe Everything You Think by Joseph Nguyen.epub
+2025-02-27 17:09:27,646 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/The Daily Laws.pdf
+2025-02-27 17:09:59,776 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/The Daily Laws.pdf -> C:\Users\Dennis/Downloads/ebooks/kindle/The Daily Laws_pdf.mobi
+2025-02-27 17:10:09,723 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/The Daily Laws_pdf.mobi
+2025-02-27 17:10:09,725 - Moved original file to processed: The Daily Laws.pdf
+2025-02-27 17:16:48,212 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/The Daily Laws.pdf
+2025-02-27 17:16:48,217 - Removed old MOBI: C:\Users\Dennis/Downloads/ebooks/kindle/The Daily Laws_pdf.mobi
+2025-02-27 17:17:15,853 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/The Daily Laws.pdf -> C:\Users\Dennis/Downloads/ebooks/kindle/The Daily Laws_pdf.mobi
+2025-02-27 17:17:20,812 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/The Daily Laws_pdf.mobi
+2025-02-27 17:17:20,819 - Moved original file to processed: The Daily Laws.pdf
+2025-02-27 17:23:16,648 - \u274c Failed to send C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub: (552, b'5.7.0 This message was blocked because its content presents a potential\n5.7.0 security issue. To review our message content and attachment content\n5.7.0 guidelines, go to\n5.7.0  https://support.google.com/mail/?p=BlockedMessage a640c23a62f3a-abf0c0b983fsm146417666b.6 - gsmtp')
+2025-02-27 17:23:16,651 - Removed old MOBI: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:23:21,182 - \u2705 Conversion succeeded: C:\Users\Dennis/Downloads/ebooks/Don't Believe Everything You Think by Joseph Nguyen.epub -> C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:23:24,729 - \u2705 Sent: C:\Users\Dennis/Downloads/ebooks/kindle/Don't Believe Everything You Think by Joseph Nguyen_epub.mobi
+2025-02-27 17:23:24,730 - Moved original file to processed: Don't Believe Everything You Think by Joseph Nguyen.epub
